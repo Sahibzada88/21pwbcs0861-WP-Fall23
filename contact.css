@@ -1,0 +1,45 @@
+body{
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heading {
+	background-color: hsla(225, 73%, 57%, 0.4);
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+    font-size: 30px;
+}
+
+#menu{
+	text-align: center;
+	background-color: hsla(210, 80%, 60%, 0.5);
+	padding: 10px;
+	
+}
+.link{
+	color: black;
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 1.3em;
+}
+.link:hover{
+	background-color: silver;
+	color: teal;
+}
+#contact{
+	background-color: hsla(200, 60%, 50%, 0.9);
+	font-size: 30px;
+}
+
+#contact_form{
+	margin: 20px;
+	padding: 20px;
+	margin-left: 22%;
+	background-color: silver;
+   width: 50%;
+
+}
+
+

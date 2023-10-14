@@ -1,0 +1,98 @@
+body{
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heading {
+    background-color: hsla(225, 73%, 57%, 0.4);
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    width: 100%;
+}
+
+#menu{
+    text-align: center;
+    background-color: hsla(210, 80%, 60%, 0.5);
+    width: 100%;
+    padding: 10px;
+    
+}
+.link{
+    color: black;
+    margin-left: 5%;
+    text-decoration: none;
+    font-size: 1.3em;
+}
+.link:hover{
+    background-color: silver;
+    color: teal;
+}
+
+#gallery{
+    margin-top: 15px;
+    
+}
+
+#china_wall{
+    background-color: hsla(10, 20%, 50%, 0.7);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.images{
+    margin-left: 10px;
+}
+
+#Taj_mahal{
+    background-color: hsla(10, 20%, 50%, 0.7);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.images1{
+    margin-left: 10px;
+}
+
+#MachuPichu{
+    background-color: hsla(10, 20%, 50%, 0.7);
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+.images3{
+    margin-left: 10px;
+}
+
+#Pyramid{
+    background-color: hsla(10, 20%, 50%, 0.7);
+    margin-top: 10px;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+
+.images2{
+    margin-left: 10px;
+}
+
+#Babylon{
+    background-color: hsla(10, 20%, 50%, 0.7);
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.images4{
+    margin-left: 10px;
+}
+

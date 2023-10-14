@@ -1,0 +1,68 @@
+body{
+    background-image: url("bgimg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#heading {
+	background-color: hsla(225, 73%, 57%, 0.4);
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+    font-size: 30px;
+    width: 100%;
+}
+
+#menu{
+	text-align: center;
+	background-color: hsla(210, 80%, 60%, 0.5);
+	padding: 10px;
+	
+}
+.link{
+	color: black;
+	margin-left: 5%;
+	text-decoration: none;
+	font-size: 1.3em;
+}
+.link:hover{
+	background-color: silver;
+	color: teal;
+}
+
+#footer{
+	background-color: hsla(20, 100%, 50%, 0.5);
+	margin-top: 10px;
+	padding: 10px;
+}
+
+#img{
+	width: 20%;
+	height: 20%;
+	align-items: center;
+	margin-left: 40%;
+}
+
+#destination_guide{
+	background-color: white;
+}
+
+#headi{
+	display: flex;
+	flex-direction: row;
+}
+
+#headi2{
+	margin-left: 20%;
+}
+
+#side{
+	display: flex;
+	flex-direction: row;
+	margin-top: 10px;
+	font-size: 25px;
+}
+
+#side1{
+	margin-right: 10px;
+}
